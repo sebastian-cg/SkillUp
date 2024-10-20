@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Skill Up</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="log_in">Log in</string>
+    <string name="or">or</string>
+    <string name="sign_up_text">Sign up</string>
+    <string name="sign_up_button">Sign Up</string>
+</resources>
